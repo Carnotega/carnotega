@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Carnotega 😁
+## Bem-vindo(a) ao perfil do Josué 😁
 
  <div>
    <a href="https://github.com/carnotega">
